@@ -1,13 +1,12 @@
 .footer{
-    background: #03001e;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
     padding: 60px 0 30px 0;
     margin: auto;
     overflow: hidden;
-    border: blanchedalmond solid;
+    /* border: blanchedalmond solid; */
 }
 
 .contenedor-footer{
@@ -18,8 +17,7 @@ background: linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e); /* W3
     padding-bottom: 50px;
     border-bottom: 1px solid #ccc;
     height: 150px;
-    margin-left: 200px;
-
+    
 }
 
 .content-foo{
@@ -29,7 +27,7 @@ background: linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e); /* W3
 
 .content-foo h4{
    color: rgb(255, 255, 255);
-   border-bottom: 3px solid #346b68;
+   border-bottom: 3px solid #0fddd3;
     padding-bottom: 5px;
     margin-bottom: 10px;
 }
@@ -40,7 +38,7 @@ background: linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e); /* W3
  }
  .titulo-final{
      text-align: center;
-     font-size: 24px;
+     font-size: 14px;
      margin: 20px 0 0 0;
      color: #fffbfb;
  }

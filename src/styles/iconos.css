@@ -14,9 +14,12 @@
 }
 
 .circulorojo{
-    font-size: 70px;
+    font-size: 80px;
     transition: all 300ms;
-    color: rgb(0, 207, 243);
+    color: rgba(247, 7, 147, 0.616);
+    background-color: #fff;
+    padding: .8rem;
+    border-radius: 50%;
 }
 
 .container-icons .circulorojo:hover{
